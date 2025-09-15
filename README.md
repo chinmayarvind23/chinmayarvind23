@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Chinmay Arvind</h1>
 <p align="center">
-  <b>Recent UBC CS Honors Graduate | Prev TA & URA @ UBC</b><br>
+  <b>MSCS @ UMN | BSc. Honors CS @ UBC | Prev TA & URA @ UBC</b><br>
   <a href="mailto:chinmayarvind23@gmail.com">chinmayarvind23@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/chinmay-arvind1/">LinkedIn</a> &nbsp;|&nbsp;
 </p>
