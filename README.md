@@ -1,16 +1,57 @@
-## Hi there 👋
+<!-- GitHub Profile README for Chinmay Arvind -->
+
+<h1 align="center">Hi, I'm Chinmay Arvind</h1>
+<p align="center">
+  <b>Recent UBC CS Honors Graduate | Prev TA & URA @ UBC</b><br>
+  <a href="mailto:chinmayarvind23@gmail.com">chinmayarvind23@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/chinmay-arvind1/">LinkedIn</a> &nbsp;|&nbsp;
+</p>
+
+---
+
+### 👋 About Me
+
+I'm Chinmay Arvind, an MS in Computer Science student at the University of Minnesota. I recently graduated with a BSc. Honors in Computer Science from the University of British Columbia. My academic and professional journey centers around AI, and research-driven development in practical applications.
+
+Experience:
+- **Research Assistant:** Engineered a scalable backend and fine-tuned an open-source large language model for educational AI, integrating Mistral’s 7B model and advanced OCR to automate and streamline content generation and analysis.
+- **Teaching Assistant:** Providing detailed, actionable feedback, design reviews, and supporting student success in capstone software engineering and introductory programming courses.
+
+---
+
+### 🚀 Highlight Projects
+
+#### 🧠 AI-Powered Course Platform
+*JavaScript, Node.js, Express.js, React.js, Docker*
+
+- Led the development of a course platform leveraging OpenAI's Assistants API to automate grading and feedback, reducing grading time by 70% for instructors.
+- Architected a robust microservices infrastructure with secure authentication and CI/CD pipelines for reliable, modular releases.
+
+#### 🔬 Puddle World Reinforcement Learning System
+*Java, Maven, SmartFoxServer APIs*
+
+- Built a modular client-server RL system capable of processing 10,000+ episodes per session, enabling hands-on experimentation with RL strategies for students.
+- Implemented an epsilon-greedy Q-learning policy, boosting agent performance by 15% in early training rounds.
+
+#### 📈 Algorithmic Trading System
+*FastAPI, PyTorch, SciKitLearn, Pandas, NumPy, MatPlotLib*
+
+- Developed a multi-strategy trading simulation platform integrating technical, sentiment, and deep learning–based analysis.
+- Engineered a CNN-LSTM hybrid model with RL-driven position sizing, improving prediction accuracy and backtested returns.
+
+---
+
+### 💻 Technical Skills
+
+- **Languages:** Python, Java, C, R, JavaScript, SQL (MySQL, PostgreSQL), HTML/CSS
+- **Frameworks/Technologies:** FastAPI, Flask, Node.js, Express.js, React.js, Next.js, PyTorch, SciKitLearn, Pandas, NumPy, OpenAI APIs, Docker
+- **Tools:** VS Code, Eclipse, PyCharm, IntelliJ, Jupyter Notebooks, Git, GitHub Actions, DroneCI
+
+---
 
 <!--
-**chinmayarvind23/chinmayarvind23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Chinmay Arvind** • AI | Quantitative Finance | Research | Teaching  
+Email: chinmayarvind23@gmail.com  
+LinkedIn: https://www.linkedin.com/in/chinmay-arvind1/  
+GitHub: https://github.com/chinmayarvind23
 -->
