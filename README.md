@@ -14,7 +14,7 @@
 I'm Chinmay Arvind, an MS in Computer Science student at the University of Minnesota. I recently graduated with a BSc. Honors in Computer Science from the University of British Columbia. My academic and professional journey centers around AI, and research-driven development in practical applications.
 
 Experience:
-- **Research Assistant:** Engineered a scalable backend and fine-tuned an open-source large language model for educational AI, integrating Mistral’s 7B model and advanced OCR to automate and streamline content generation and analysis.
+- **ML Engineer & Backend Developer - AI Research Platform:** Engineered a scalable backend and fine-tuned an open-source large language model for educational AI, integrating Mistral’s 7B model and advanced OCR to automate and streamline content generation and analysis.
 - **Teaching Assistant:** Providing detailed, actionable feedback, design reviews, and supporting student success in capstone software engineering and introductory programming courses.
 
 ---
