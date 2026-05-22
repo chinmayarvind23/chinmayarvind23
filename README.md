@@ -51,6 +51,18 @@ Experience:
 - Fine-tuned TinyLlama-1.1B to “plan → write,” improving structure quality **6.6×** (0.061 → 0.403) and reward **0.643 → 0.683**; runs comfortably on an RTX 4070 (~8 GB VRAM).
 - Delivered a FastAPI backend and a Next.js UI for A/B vs baseline with real-time metrics; reproducible CUDA env (uv + PyTorch cu121).
 
+#### 🧠 Risk-Adjusted Hallucination Detection
+*Python, LLMs, Qwen, Calibration, Abstention*
+
+- Built a grounded-QA hallucination detector over **5.3K Qwen-generated examples** using uncertainty, self-consistency, semantic entropy, and evidence-groundedness signals.
+- Achieved **77.3% AUROC**, **64.5% AUPRC**, and **75.9% accuracy** on PHANTOM; improved selective accuracy from **68.3% → 78.6%** by abstaining on the riskiest **18.2%** of answers.
+
+#### 🧬 EEG Sleep Deprivation Classification
+*Python, PyTorch, EEG, CNNs, ViTs, GRU/LSTM*
+
+- Built a leakage-safe EEG deep learning pipeline on **8,300 resting-state EEG epochs** for sleep-deprivation classification and SSS/KSS sleepiness prediction.
+- Benchmarked CNN/Transformer encoders with **70/15/15 subject-wise splits**, **5-fold subject-wise CV**, EEG augmentation, and downstream Ridge/MLP/GRU/LSTM and multi-task learning pipelines.
+
 ---
 
 ### 💻 Technical Skills
