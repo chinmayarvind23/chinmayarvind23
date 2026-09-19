@@ -28,6 +28,16 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 
 ---
 
+## Education
+
+🎓 **University of Minnesota — Twin Cities**  
+MS in Computer Science · Expected May 2027
+
+🎓 **The University of British Columbia**  
+BSc in Computer Science (Honors) · May 2025
+
+---
+
 ## Tech
 
 <p align="center">
@@ -122,13 +132,3 @@ Turns an investment research question into a structured workflow that finds supp
 | [**EEG Sleep Deprivation Classification & Sleepiness Prediction**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) | CNN/ViT representation learning and downstream GRU/LSTM prediction |
 | [**Guarded Browser Automation for Subscription Cancellation & Billing Verification**](https://github.com/chinmayarvind23/solari-cookbook-fork-cleanbreak) | Browser automation, one-use authorization, durable execution, independent verification |
 | [**AI Personal-Finance Lifestyle Drift Analysis Platform**](https://github.com/chinmayarvind23/drift-ai) | Spending analysis, behavioral interviews, privacy-first AI workflows |
-
----
-
-## Education
-
-🎓 **University of Minnesota — Twin Cities**  
-MS in Computer Science · Expected May 2027
-
-🎓 **The University of British Columbia**  
-BSc in Computer Science (Honors) · May 2025
