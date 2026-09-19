@@ -48,7 +48,7 @@ Worked on multimodal financial-fraud research across document, transaction, and 
 
 ### University of British Columbia · ML & Backend Engineer
 **May 2024 – Apr 2025**  
-Built a FastAPI AI research platform integrating a fine-tuned Mistral 7B model, OCR, authentication, PostgreSQL, MinIO, and backend systems.
+Built a FastAPI AI research platform by fine-tuning and integrating Mistral 7B with OCR, authentication, PostgreSQL, MinIO, and backend systems.
 
 ### University of British Columbia · Teaching Assistant
 **Sep 2024 – Apr 2025**  
