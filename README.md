@@ -31,27 +31,7 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,js,c,r,pytorch,sklearn,opencv,fastapi,nodejs,react,nextjs,postgres,redis,sqlite,docker,kubernetes,terraform,aws,grafana,prometheus,git,githubactions,supabase&perline=14" />
-</p>
-
-<p align="center">
-  <img height="34" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" title="Apache Airflow" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/mlflow" alt="MLflow" title="MLflow" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/opentelemetry" alt="OpenTelemetry" title="OpenTelemetry" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/elasticsearch" alt="Elasticsearch" title="Elasticsearch" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/weaviate.svg" alt="Weaviate" title="Weaviate" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" />
-  &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/apache" alt="Apache Spark" title="Apache Spark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,pytorch,sklearn,fastapi,nodejs,react,nextjs,postgres,redis,docker,kubernetes,terraform,aws,git,githubactions&perline=10" />
 </p>
 
 ---
