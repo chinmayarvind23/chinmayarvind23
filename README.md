@@ -31,28 +31,48 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,go,rust,java,pytorch,fastapi,nodejs,postgres,redis,docker,kubernetes,terraform,aws,grafana,prometheus" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,js,c,r,pytorch,sklearn,opencv,fastapi,nodejs,react,nextjs,postgres,redis,sqlite,docker,kubernetes,terraform,aws,grafana,prometheus,git,githubactions,supabase&perline=14" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-Agents-black" />
-  <img src="https://img.shields.io/badge/LlamaIndex-RAG-blue" />
-  <img src="https://img.shields.io/badge/vLLM-Inference-purple" />
-  <img src="https://img.shields.io/badge/Ray%20Serve-Serving-blue" />
-  <img src="https://img.shields.io/badge/MLflow-MLOps-orange" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-Observability-purple" />
+  <img height="34" src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" title="Hugging Face" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/langchain" alt="LangChain" title="LangChain" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" title="Apache Airflow" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/mlflow" alt="MLflow" title="MLflow" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/opentelemetry" alt="OpenTelemetry" title="OpenTelemetry" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/elasticsearch" alt="Elasticsearch" title="Elasticsearch" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/weaviate" alt="Weaviate" title="Weaviate" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" />
+  &nbsp;&nbsp;
+  <img height="34" src="https://cdn.simpleicons.org/apache" alt="Apache Spark" title="Apache Spark" />
 </p>
 
 ---
 
 ## Experience
 
-| Role | Organization | Focus |
-|---|---|---|
-| **AI Engineer Intern** · Jun–Sep 2026 | **Vidasmi** | Agentic drone mission planning, PX4/Gazebo execution, safety controls, terrain/weather integration |
-| **Graduate Research Assistant** · Sep 2025–May 2026 | **University of Minnesota** | Multimodal fraud modeling, graphs, bounded investigations, reproducible ML pipelines |
-| **ML & Backend Engineer** · May 2024–Apr 2025 | **UBC** | Mistral 7B, OCR, FastAPI, PostgreSQL, MinIO, backend systems |
-| **Teaching Assistant** · Sep 2024–Apr 2025 | **UBC** | Software architecture, code reviews, debugging, engineering mentorship |
+### Vidasmi · AI Engineer Intern
+**Jun 2026 – Sep 2026**  
+Built an agentic drone mission-planning and execution platform with natural-language planning, real terrain/weather data, deterministic safety controls, PX4/Gazebo execution, durable workflows, and operator approval.
+
+### University of Minnesota · Graduate Research Assistant
+**Sep 2025 – May 2026**  
+Worked on multimodal financial-fraud research across document, transaction, and graph signals, with robust evaluation, bounded investigation workflows, reproducible ML pipelines, and monitoring.
+
+### University of British Columbia · ML & Backend Engineer
+**May 2024 – Apr 2025**  
+Built a FastAPI AI research platform integrating a fine-tuned Mistral 7B model, OCR, authentication, PostgreSQL, MinIO, and backend systems.
+
+### University of British Columbia · Teaching Assistant
+**Sep 2024 – Apr 2025**  
+Supported capstone software engineering and introductory programming through architecture reviews, repository feedback, debugging, and engineering mentorship.
 
 ---
 
@@ -66,16 +86,12 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 
 Hybrid retrieval, reranking, citations, access controls, adversarial evaluation, and latency/cost gates.
 
-`Python` `FastAPI` `LlamaIndex` `Weaviate` `Redis` `DeepEval`
-
 </td>
 <td width="50%" valign="top">
 
 ### [Agentic Kubernetes Payment-Incident Investigation & Remediation System](https://github.com/chinmayarvind23/pay-ops)
 
 Evidence-linked incident diagnosis across Kubernetes state, logs, traces, deployments, and payment telemetry with deterministic approval controls.
-
-`Python` `LangGraph` `Kubernetes` `PostgreSQL` `Prometheus` `OTel`
 
 </td>
 </tr>
@@ -87,16 +103,12 @@ Evidence-linked incident diagnosis across Kubernetes state, logs, traces, deploy
 
 Distributed text and multimodal inference with GPU-aware routing, batching, prefix caching, release gates, observability, and rollback.
 
-`PyTorch` `vLLM` `Ray Serve` `Redis` `MLflow` `Airflow`
-
 </td>
 <td width="50%" valign="top">
 
 ### [High-Throughput Payment Webhook Reliability & Risk-Scoring Gateway](https://github.com/chinmayarvind23/hook-guard)
 
 Concurrent webhook ingestion, idempotent async processing, Rust risk scoring, Kubernetes deployment, and production observability.
-
-`Go` `Rust` `Redis Streams` `Kubernetes` `Prometheus` `Grafana`
 
 </td>
 </tr>
@@ -108,16 +120,12 @@ Concurrent webhook ingestion, idempotent async processing, Rust risk scoring, Ku
 
 Calibrated hallucination-risk detection using uncertainty, disagreement, semantic entropy, groundedness, and selective prediction.
 
-`Python` `Qwen` `scikit-learn` `Transformers`
-
 </td>
 <td width="50%" valign="top">
 
 ### [Agentic Quantitative Research Orchestration & Backtesting Platform](https://github.com/chinmayarvind23/factor-forge)
 
 Multi-step research orchestration from source discovery and hypotheses through strategy construction, controlled experiments, and deterministic backtests.
-
-`Python` `LangGraph` `Polars` `PostgreSQL` `LEAN` `MLflow`
 
 </td>
 </tr>
@@ -134,19 +142,6 @@ Multi-step research orchestration from source discovery and hypotheses through s
 | [**EEG Sleep Deprivation Classification & Sleepiness Prediction**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) | CNN/ViT representation learning and downstream GRU/LSTM prediction |
 | [**Guarded Browser Automation for Subscription Cancellation & Billing Verification**](https://github.com/chinmayarvind23/solari-cookbook-fork-cleanbreak) | Browser automation, one-use authorization, durable execution, independent verification |
 | [**AI Personal-Finance Lifestyle Drift Analysis Platform**](https://github.com/chinmayarvind23/drift-ai) | Spending analysis, behavioral interviews, privacy-first AI workflows |
-
----
-
-## Technical Focus
-
-| | |
-|---|---|
-| **AI / ML** | PyTorch · Hugging Face · LangGraph · LangChain · LlamaIndex · CUDA · RAG · calibration · multimodal ML |
-| **Backend** | FastAPI · Node.js · GraphQL · gRPC · PostgreSQL · Redis · SQLite |
-| **ML Systems** | vLLM · Ray Serve · MLflow · Airflow · Docker · Kubernetes · Terraform |
-| **Observability** | OpenTelemetry · Prometheus · Grafana |
-| **Retrieval** | Weaviate · OpenSearch · Elasticsearch · FAISS · BM25 · hybrid retrieval · reranking |
-| **Languages** | Python · TypeScript · Go · Rust · Java · C · R · JavaScript · SQL |
 
 ---
 
