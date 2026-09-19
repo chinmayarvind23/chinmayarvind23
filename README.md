@@ -47,7 +47,7 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
   &nbsp;&nbsp;
   <img height="34" src="https://cdn.simpleicons.org/elasticsearch" alt="Elasticsearch" title="Elasticsearch" />
   &nbsp;&nbsp;
-  <img height="34" src="https://cdn.simpleicons.org/weaviate" alt="Weaviate" title="Weaviate" />
+  <img height="34" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/weaviate.svg" alt="Weaviate" title="Weaviate" />
   &nbsp;&nbsp;
   <img height="34" src="https://cdn.simpleicons.org/graphql" alt="GraphQL" title="GraphQL" />
   &nbsp;&nbsp;
