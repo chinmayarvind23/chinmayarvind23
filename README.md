@@ -115,10 +115,11 @@ Turns an investment research question into a structured workflow that finds supp
 
 ## More Projects
 
-| Project | Focus |
+| Project | What it does |
 |---|---|
-| [**Agentic Home-Health Referral Intake & Scheduling Platform**](https://github.com/chinmayarvind23/careflow-ai) | Document understanding, validation, browser agents, eligibility, placement, scheduling |
-| [**Plan-First LLM Alignment with LoRA SFT + PPO**](https://github.com/chinmayarvind23/structured-aligned-lm) | TinyLlama alignment, structured generation, supervised fine-tuning, reinforcement learning |
-| [**EEG Sleep Deprivation Classification & Sleepiness Prediction**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) | CNN/ViT representation learning and downstream GRU/LSTM prediction |
-| [**Guarded Browser Automation for Subscription Cancellation & Billing Verification**](https://github.com/chinmayarvind23/solari-cookbook-fork-cleanbreak) | Browser automation, one-use authorization, durable execution, independent verification |
-| [**AI Personal-Finance Lifestyle Drift Analysis Platform**](https://github.com/chinmayarvind23/drift-ai) | Spending analysis, behavioral interviews, privacy-first AI workflows |
+| [**Agentic Home-Health Referral Intake & Scheduling Platform**](https://github.com/chinmayarvind23/careflow-ai) | Extracts and validates referral data from documents, checks eligibility, finds placement options with browser agents, and coordinates scheduling. |
+| [**Plan-First LLM Alignment with LoRA SFT + PPO**](https://github.com/chinmayarvind23/structured-aligned-lm) | Aligns TinyLlama for structured plan-first generation using supervised fine-tuning, LoRA, and PPO-based reinforcement learning. |
+| [**EEG Sleep Deprivation Classification & Sleepiness Prediction**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) | Learns EEG representations with CNN/ViT models and uses them for downstream sleep-deprivation classification and GRU/LSTM sleepiness prediction. |
+| [**Guarded Browser Automation for Subscription Cancellation & Billing Verification**](https://github.com/chinmayarvind23/solari-cookbook-fork-cleanbreak) | Automates subscription cancellation with one-use authorization, durable browser execution, and independent verification that billing has stopped. |
+| [**AI Personal-Finance Lifestyle Drift Analysis Platform**](https://github.com/chinmayarvind23/drift-ai) | Analyzes spending drift, runs AI-guided behavioral interviews, and generates privacy-conscious recovery plans from financial activity. |
+| [**Enhanced Jersey Number Recognition for Sports Video**](https://github.com/chinmayarvind23/jersey-number-recognition-boosted) | Recognizes jersey numbers across player tracklets using denoising, legibility filtering, pose-guided crops, scene-text recognition, temporal smoothing, and learned prediction consolidation. |
