@@ -64,14 +64,14 @@ Supported capstone software engineering and introductory programming through arc
 
 ### [Permission-Aware Commercial Lending RAG & Underwriting Evaluation Platform](https://github.com/chinmayarvind23/credit-lens)
 
-Hybrid retrieval, reranking, citations, access controls, adversarial evaluation, and latency/cost gates.
+Helps lenders answer underwriting questions from borrower and policy documents, while enforcing data access rules, citing the exact source pages, and testing whether answers stay accurate and grounded.
 
 </td>
 <td width="50%" valign="top">
 
 ### [Agentic Kubernetes Payment-Incident Investigation & Remediation System](https://github.com/chinmayarvind23/pay-ops)
 
-Evidence-linked incident diagnosis across Kubernetes state, logs, traces, deployments, and payment telemetry with deterministic approval controls.
+Investigates payment-system outages by pulling together Kubernetes health, logs, traces, recent deploys, and payment signals, then suggests a root cause while keeping remediation behind explicit safety and approval checks.
 
 </td>
 </tr>
@@ -81,14 +81,14 @@ Evidence-linked incident diagnosis across Kubernetes state, logs, traces, deploy
 
 ### [Distributed GPU Inference Serving & Automated Model Release Platform](https://github.com/chinmayarvind23/fin-serve)
 
-Distributed text and multimodal inference with GPU-aware routing, batching, prefix caching, release gates, observability, and rollback.
+Serves text and multimodal models across GPUs, routes requests efficiently, batches work to improve throughput, and automatically tests new model releases before promoting or rolling them back.
 
 </td>
 <td width="50%" valign="top">
 
 ### [High-Throughput Payment Webhook Reliability & Risk-Scoring Gateway](https://github.com/chinmayarvind23/hook-guard)
 
-Concurrent webhook ingestion, idempotent async processing, Rust risk scoring, Kubernetes deployment, and production observability.
+Receives high-volume payment webhooks without processing duplicates, queues them reliably, scores transaction risk in real time, and exposes health and performance metrics for production monitoring.
 
 </td>
 </tr>
@@ -98,14 +98,14 @@ Concurrent webhook ingestion, idempotent async processing, Rust risk scoring, Ku
 
 ### [Risk-Adjusted Hallucination Detection & Abstention for Grounded QA](https://github.com/chinmayarvind23/risk-adjusted-hallucination-detection)
 
-Calibrated hallucination-risk detection using uncertainty, disagreement, semantic entropy, groundedness, and selective prediction.
+Estimates when a grounded-QA model is likely to hallucinate by combining several confidence signals, then abstains on risky answers instead of returning something unreliable.
 
 </td>
 <td width="50%" valign="top">
 
 ### [Agentic Quantitative Research Orchestration & Backtesting Platform](https://github.com/chinmayarvind23/factor-forge)
 
-Multi-step research orchestration from source discovery and hypotheses through strategy construction, controlled experiments, and deterministic backtests.
+Turns an investment research question into a structured workflow that finds supporting research, builds hypotheses and strategies, runs controlled backtests, and keeps the full experiment trail inspectable.
 
 </td>
 </tr>
