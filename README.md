@@ -24,7 +24,7 @@
 
 MS Computer Science @ University of Minnesota and UBC Computer Science Honors graduate focused on **AI/ML engineering, software engineering, and AI infrastructure**.
 
-I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML infrastructure, backend systems, multimodal ML, and browser automation**.
+I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML infrastructure, backend systems, multimodal apps, and browser automations**.
 
 ---
 
