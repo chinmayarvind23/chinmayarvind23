@@ -34,7 +34,7 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 ## Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,pytorch,sklearn,fastapi,nodejs,react,nextjs,postgres,redis,docker,kubernetes,terraform,aws,git,githubactions&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,ts,go,rust,java,pytorch,sklearn,fastapi,nodejs,react,nextjs,postgres,redis,docker,kubernetes,terraform,aws,prometheus,grafana&perline=10" />
 </p>
 
 ---
