@@ -117,6 +117,8 @@ Turns an investment research question into a structured workflow that finds supp
 
 | Project | What it does |
 |---|---|
+| [**PNRL: Reinforcement Learning Development for an Undergraduate AI Course**](https://github.com/chinmayarvind23/COSC449Honors-Reinforcement-Learning-Puddle-World) | Undergraduate honors thesis project that gives AI students a client-server Puddle World environment for experimenting with Q-learning, exploration, training termination strategies, and inspectable learning telemetry. |
+| [**Game of Amazons: Python-Java Integration for COSC 322**](https://github.com/chinmayarvind23/COSC449Honors-COSC322Python-Java-Integration-GameOfAmazons) | Extends the honors-thesis work by bridging Python AI/search logic into the existing Java and SmartFoxServer course client through Py4J, letting students use Python ML tooling without replacing the server-facing Java stack. |
 | [**Agentic Home-Health Referral Intake & Scheduling Platform**](https://github.com/chinmayarvind23/careflow-ai) | Extracts and validates referral data from documents, checks eligibility, finds placement options with browser agents, and coordinates scheduling. |
 | [**Plan-First LLM Alignment with LoRA SFT + PPO**](https://github.com/chinmayarvind23/structured-aligned-lm) | Aligns TinyLlama for structured plan-first generation using supervised fine-tuning, LoRA, and PPO-based reinforcement learning. |
 | [**EEG Sleep Deprivation Classification & Sleepiness Prediction**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) | Learns EEG representations with CNN/ViT models and uses them for downstream sleep-deprivation classification and GRU/LSTM sleepiness prediction. |
