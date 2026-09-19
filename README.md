@@ -53,8 +53,8 @@ Concurrent Go ingress, Redis Streams for idempotent async delivery, Rust risk wo
 Hallucination-risk modeling with uncertainty, self-consistency, semantic entropy, groundedness, calibration, selective prediction, and cross-dataset transfer analysis.  
 **Stack:** Python, Qwen, scikit-learn, Hugging Face Transformers, calibration, selective prediction
 
-### [Autonomous Quantitative Research & Backtesting Platform](https://github.com/chinmayarvind23/factor-forge)
-Turns investment questions and sources into structured hypotheses, controlled experiments, deterministic backtests, and inspectable research decisions with durable workflow state.  
+### [Agentic Quantitative Research Orchestration & Backtesting Platform](https://github.com/chinmayarvind23/factor-forge)
+Orchestrates multi-step quantitative research across source discovery, structured hypothesis generation, strategy construction, controlled experiments, deterministic backtests, and inspectable research decisions with durable workflow state.  
 **Stack:** Python, LangGraph, Polars, PostgreSQL, LEAN, MLflow, Docker
 
 ---
