@@ -50,8 +50,7 @@ Supported capstone software engineering and introductory programming courses thr
 
 ## Featured Projects
 
-### [CreditLens](https://github.com/chinmayarvind23/credit-lens)
-**Permission-Aware Commercial Lending RAG & Underwriting Evaluation Platform**
+### [Permission-Aware Commercial Lending RAG & Underwriting Evaluation Platform](https://github.com/chinmayarvind23/credit-lens)
 
 Built a permission-aware lending RAG system with hybrid retrieval, semantic chunking, reranking, page-level citations, access controls, adversarial evaluation, tracing, and latency/cost quality gates.
 
@@ -59,8 +58,7 @@ Built a permission-aware lending RAG system with hybrid retrieval, semantic chun
 
 ---
 
-### [PayOps](https://github.com/chinmayarvind23/pay-ops)
-**Agentic Kubernetes Payment-Incident Investigation & Remediation System**
+### [Agentic Kubernetes Payment-Incident Investigation & Remediation System](https://github.com/chinmayarvind23/pay-ops)
 
 Built an agentic incident-response workflow that correlates Kubernetes state, logs, traces, deployment changes, and payment telemetry into evidence-linked diagnoses with deterministic authorization and approval controls.
 
@@ -68,8 +66,7 @@ Built an agentic incident-response workflow that correlates Kubernetes state, lo
 
 ---
 
-### [FinServe](https://github.com/chinmayarvind23/fin-serve)
-**Distributed GPU Inference Serving & Automated Model Release Platform**
+### [Distributed GPU Inference Serving & Automated Model Release Platform](https://github.com/chinmayarvind23/fin-serve)
 
 Built a text and multimodal inference platform with GPU-aware routing, batching, prefix caching, model-serving adapters, release gates, observability, and automated rollback workflows.
 
@@ -77,8 +74,7 @@ Built a text and multimodal inference platform with GPU-aware routing, batching,
 
 ---
 
-### [HookGuard](https://github.com/chinmayarvind23/hook-guard)
-**High-Throughput Payment Webhook Reliability & Risk-Scoring Gateway**
+### [High-Throughput Payment Webhook Reliability & Risk-Scoring Gateway](https://github.com/chinmayarvind23/hook-guard)
 
 Built a payment-event gateway with concurrent Go ingress, Redis Streams for idempotent asynchronous delivery, Rust risk workers, Kubernetes deployment, and Prometheus/Grafana observability.
 
@@ -86,8 +82,7 @@ Built a payment-event gateway with concurrent Go ingress, Redis Streams for idem
 
 ---
 
-### [Risk-Adjusted Hallucination Detection](https://github.com/chinmayarvind23/risk-adjusted-hallucination-detection)
-**Calibrated Hallucination Risk & Abstention for Grounded QA**
+### [Risk-Adjusted Hallucination Detection & Abstention for Grounded QA](https://github.com/chinmayarvind23/risk-adjusted-hallucination-detection)
 
 Built a hallucination-risk pipeline combining token uncertainty, self-consistency, semantic entropy, and groundedness signals, with calibration, selective prediction, and cross-dataset transfer analysis.
 
@@ -95,8 +90,7 @@ Built a hallucination-risk pipeline combining token uncertainty, self-consistenc
 
 ---
 
-### [FactorForge](https://github.com/chinmayarvind23/factor-forge)
-**Autonomous Quantitative Research & Backtesting Platform**
+### [Autonomous Quantitative Research & Backtesting Platform](https://github.com/chinmayarvind23/factor-forge)
 
 Built a research system that turns investment questions and source material into structured hypotheses, controlled experiments, deterministic backtests, and inspectable research decisions with durable workflow state.
 
@@ -104,22 +98,13 @@ Built a research system that turns investment questions and source material into
 
 ---
 
-## Research
-
-### DynamicMem — Long-Horizon Memory Benchmark with Evolving User Context
-**NeurIPS 2026 — under review**
-
-Co-authored an LLM evaluation benchmark focused on long-horizon memory, evolving user context, model failure analysis, and reliability in conversational foundation-model systems.
-
----
-
 ## Additional Work
 
-- **careflow.ai** — agentic home-health referral intake with document understanding, validation, eligibility checks, placement, and scheduling automation.
-- **Structured Alignment LM** — LoRA SFT + PPO alignment for plan-first generation with TinyLlama.
-- **EEG Sleep Deprivation & Sleepiness Prediction** — subject-independent deep learning and representation transfer across CNN, ViT, GRU, and LSTM models.
-- **CleanBreak** — guarded browser automation for subscription cancellation with one-use authorization and independent billing verification.
-- **Drift.ai** — privacy-first AI personal-finance workflow for lifestyle-spending drift analysis.
+- [**Agentic Home-Health Referral Intake & Scheduling Platform**](https://github.com/chinmayarvind23/careflow-ai) — document understanding, deterministic validation, browser-based eligibility checks, referral placement, and scheduling automation.
+- [**Plan-First LLM Alignment with LoRA SFT + PPO**](https://github.com/chinmayarvind23/structured-aligned-lm) — structured generation with TinyLlama using supervised fine-tuning and reinforcement learning.
+- [**EEG Sleep Deprivation Classification & Sleepiness Prediction System**](https://github.com/chinmayarvind23/eeg-sleep-deprivation-classification-and-sleepiness-prediction) — subject-independent deep learning and representation transfer across CNN, ViT, GRU, and LSTM models.
+- [**Guarded Browser Automation for Subscription Cancellation & Billing Verification**](https://github.com/chinmayarvind23/solari-cookbook-fork-cleanbreak) — one-use authorization, durable workflow state, and independent verification.
+- [**AI Personal-Finance Lifestyle Drift Analysis Platform**](https://github.com/chinmayarvind23/drift-ai) — privacy-first spending analysis, behavioral interviews, and recovery-plan generation.
 
 ---
 
