@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Chinmay Arvind -->
 
-<h1 align="center">Hi, I'm Chinmay Arvind</h1>
+<h1 align="center"><a href="https://chinmayarvind23.github.io/">Hi, I'm Chinmay Arvind</a></h1>
 
 <p align="center">
   <b>AI/ML Engineer | Software Engineer | Agents, ML Systems & AI Infra</b><br>
@@ -13,6 +13,9 @@
   </a>
   <a href="https://www.linkedin.com/in/chinmay-arvind1/">
     <img src="https://img.shields.io/badge/LinkedIn-Chinmay%20Arvind-informational?logo=linkedin" />
+  </a>
+  <a href="https://chinmayarvind23.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-informational" alt="Portfolio website" />
   </a>
 </p>
 
