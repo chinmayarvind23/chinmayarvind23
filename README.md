@@ -28,16 +28,6 @@ I build **agentic systems, RAG/evaluation pipelines, distributed inference, ML i
 
 ---
 
-## Education
-
-🎓 **University of Minnesota — Twin Cities**  
-MS in Computer Science · Expected May 2027
-
-🎓 **The University of British Columbia**  
-BSc in Computer Science (Honors) · May 2025
-
----
-
 ## Tech
 
 <p align="center">
